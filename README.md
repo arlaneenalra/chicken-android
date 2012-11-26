@@ -1,5 +1,4 @@
-
-   [chicken-mobile]: https://github.com/Adellica/chicken-mobile
+   [chicken-mobile]: https://github.com/Adellica/chicken-mobile/tree/master/android
 
 # Project has moved
 
