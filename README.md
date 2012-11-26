@@ -1,6 +1,19 @@
+
+   [chicken-mobile]: https://github.com/Adellica/chicken-mobile
+
+# Project has moved
+
+The chicken-android project has been integrated into the 
+[chicken-mobile] project.
+
+Development efforts will be moved to [chicken-mobile].
+
   [Chicken Scheme]: http://call-cc.org
   [Android NDK]: http://developer.android.com/sdk/ndk/index.html
   [Changing LD_LIBRARY_PATH]: http://groups.google.com/group/android-ndk/browse_thread/thread/da2cb8cdeca854a5/77fb7dd33bb376f7
+
+---
+
 
 # [Chicken Scheme] on Android
 
